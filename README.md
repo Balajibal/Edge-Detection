@@ -125,6 +125,7 @@ plt.show()
 ```
 
 ## Output:
+<br></br>
 ### SOBEL EDGE DETECTOR
 <br></br>
 ![Screenshot (153)](https://user-images.githubusercontent.com/75234946/168997971-954d2d00-4a76-4d86-b147-6b97598e67bf.png)
